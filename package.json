@@ -1,0 +1,14 @@
+{
+  "name": "mesh-capital",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"npm run backend\" \"npm run frontend\"",
+    "backend": "cd backend && python run.py",
+    "frontend": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "setup": "npm install && cd frontend && npm install",
+    "test": "cd backend && python -m pytest ../tests -v"
+  },
+  "devDependencies": { "concurrently": "^9.0.0" }
+}
