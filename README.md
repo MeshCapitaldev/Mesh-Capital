@@ -1,6 +1,7 @@
 <div align="center">
 
-# Mesh Capital 🕸️
+<img width="2172" height="724" alt="ChatGPT Image 6 Jun 2026, 17 34 42" src="https://github.com/user-attachments/assets/4670d185-b4bd-4cb0-a144-874deae011a0" />
+
 
 **One liquidity layer for Solana. Trade perps, route deep liquidity, and compound on-chain — with sub-second fills and self-custody by default.**
 
